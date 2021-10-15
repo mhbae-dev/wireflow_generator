@@ -1,8 +1,5 @@
 # wireflow_generator
 
-<p align="center">
-  <img src="../Images/Main\ Renders\ -\ 2" width="350" title="Main Render">
-  <img src="../Images/line\ diagram\ 1" width="350" title="Line diagram">
-</p>
+![Main Renders - 2](https://user-images.githubusercontent.com/41869496/137519939-64effcff-9c0d-434c-a211-ddf60d65604f.png)
 
-![Screenshot](<line\ diagram\ 1.jpg>)
+![line diagram 1](https://user-images.githubusercontent.com/41869496/137519987-225de8f7-4052-455b-8441-1341512b1295.jpg)
