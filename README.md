@@ -4,7 +4,7 @@ This is a program in MAXscript that allows you to generate wires/pipes to move a
 
 ## How to use
 
-```shell
+```
 To run, press "Run Script" button on the MAXScript utility rollout, File > Run Script in the Listener menu bar, or MAXScript > Run Script in the 3ds Max menu bar. This opens a common File Open dialog for choosing the script. MAXScript then reads and executes the selected script.
 ```
 
